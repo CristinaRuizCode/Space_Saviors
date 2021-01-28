@@ -29,4 +29,10 @@ With the help of the boomerang shot, the dodge and your shields you must resist 
 </p>
 
 ![](gifs/credits.gif)
+
+<p align="center">
+:link: COPYRIGHT :link:
+</p>
+
+All the scripts and models in this repository have been created by me and should not be used for commercial or personal projects without permission and without attribution.
  
